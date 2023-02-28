@@ -1,0 +1,185 @@
+.a{
+    display: flex;
+    height: 200px;
+}
+.A{
+    cursor: pointer;
+    color: black;
+    background-color: rgb(255, 166, 0);
+    text-align: center;
+    font-weight: bold;
+    font-size:1cm;
+    border-style: solid ;
+    border-width: 2px;
+    border-radius: 2cm;
+    width: 450px;
+    height: inherit;
+    margin-left: 35%;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    margin-top: 20px;
+    font-style: italic;
+}
+.A:hover{
+    color:blue;
+    background-color: white;
+}
+.J{
+   color:white;
+   font-weight: bolder;
+   width: 200px;
+   font-style: italic;
+   font-size:large;
+   margin-top: 0;
+}
+.b{
+    height: 200px;
+}
+.B{
+    font-weight: bold;
+    background-color:grey ;
+    color: white;
+    font-size: 0.5cm;
+    width: 150px;
+    margin-block-start: auto;
+}
+.t{
+    font-weight: bold;
+    background-color:red ;
+    color: white;
+    font-size: 0.5cm;
+    width: 43px;
+}
+.Z:hover{
+    color: red;
+    background-color: white ;
+}
+.c{
+    text-align: center;
+    width: 70%;
+    border: 1px solid  white;
+    margin: auto;
+}
+.C{
+    background-color: yellow;
+    border-width: 2px;
+    width: 180px;
+    margin-bottom: 0.5px;
+    margin-left:40%;
+   font-weight: bolder;
+   font-size: large;
+}
+.C:hover{
+    background-color: rgb(54, 210, 30);
+    color: white;
+}
+.f{
+    margin-bottom: 0.5cm;
+}
+.items{
+display: flex;  
+height: 240px;
+}
+.e{
+    height: 10px;
+}
+.y{
+    color: white;
+}
+.sub{
+    margin-left: 70%;
+    margin-top: 5%;
+    font-weight: bold;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+}
+.container{
+    height: 100px;
+}
+    button{
+        font-size: 20px;
+        font-family: times;
+        background-color:grey;
+        color: black;
+        cursor: pointer;
+    }
+    body{
+            background-image: url('pattern2.jpg');
+            background-repeat: no-repeat;
+            background-size:100%;
+            background-attachment: fixed ;
+        }
+    #content{
+       color: white;
+       background-color: black;
+       margin-right: 80%;
+    }
+    #contents{
+       color: rgb(255, 255, 255);
+       background-color: black;
+       margin-right: 80%;
+    }
+    #contentss{
+       color: white;
+       background-color: black;
+       margin-right: 80%;
+    }
+        h4{
+            background-color: rgb(211, 20, 138);
+            color: white;
+            width: fit-content;
+            font-family:'Times New Roman', Times, serif;
+            font-size:x-large;
+            font-style:italic;
+        }
+        pre{
+            color: white;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        html{
+            scroll-behavior: smooth;
+        }
+        li{
+            color: white;
+            font-size: large; 
+            width: fit-content; 
+        }
+        BUTTON:hover{
+            background-color: rgb(74, 128, 221);
+            color: white;
+
+        }
+        p2{
+            
+            font-size: large;
+            width: fit-content;
+        }
+        p1{
+            color:white;
+            font-weight:900;
+            font-family: 'Roboto Slab', serif; 
+            cursor: pointer;      
+        }
+        pre1{
+           font-size: large;
+           color: darkgray; background-color: black;
+        }
+        ul.a{
+            color: white;
+        }
+        pre2{
+            background-color: rgb(211, 13, 13); color: rgb(254, 252, 252);
+            font-size: larger;
+        }
+        p1:hover{
+           color: orangered;
+           background-color: white;
+        }
+     p3{
+        color: white;
+     }
+     p3:hover{
+        border-bottom: 2px solid yellow;
+    
+     }
